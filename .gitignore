@@ -1,0 +1,4 @@
+#Ignorar arquivos de Debug
+bin/
+obj/
+.vs/
